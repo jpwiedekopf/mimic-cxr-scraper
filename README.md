@@ -1,5 +1,7 @@
 # mimic-cxr-scraper
 
+To use the script, you will need to be a credentialed user on https://physionet.net and have access to the [MIMIC-CXR dataset](https://physionet.org/content/mimic-cxr/2.0.0/).
+
 first create a python virtual env with:
 
 ```bash
